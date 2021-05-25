@@ -1,0 +1,126 @@
+#EXTM3U
+
+#EXTINF: 0,Los Simpson TV  | HD
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, El Chavo TV  | HD
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Anime Zone TV  | HD
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Cloud Server Kids  | HD
+https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, FMTV 3 Super Cine  | HD
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Caracol  | HD
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, ORBIT TV  | HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF: 0, TELECIBAO  | HD
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF: 0, TELENORD 10  | HD
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
+#EXTINF: 0, Claro sport  | HD
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?Latina.TV&PlaylistM3UCL
+
+#EXTINF: 0, Cinecable TV  | HD
+https://cp.sradiotv.com:1936/quevedo/quevedo/chunklist_w201673595.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, MTV LA  | HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Exprezion TV  | HD
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF: 0,Canal 13 | HD
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Telefe | HD
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Retro Volver | HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Paka Paka | HD
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Planeta Juniors | HD
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Wow TV | HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF: 0,Latinos Up | HD
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,ACV | HD
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Zapping Music * | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Argentinisima Satelital  | AR
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Canal 10  | HD
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Canal Rural  | HD
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,  America Tucuman  | HD
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, Canal Nueve TV  | HD
+https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+
+#EXTINF: 0, CINE.AR  | HD
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF: 0,Start TV  | HD
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
